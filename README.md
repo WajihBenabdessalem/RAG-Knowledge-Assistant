@@ -78,7 +78,7 @@ rag-knowledge-assistant/
 ## Installation
 
 ```bash
-git clone https://github.com/<votre-user>/rag-knowledge-assistant.git
+git clone https://github.com/WajihBenabdessalem/rag-knowledge-assistant.git
 cd rag-knowledge-assistant
 
 python -m venv .venv
